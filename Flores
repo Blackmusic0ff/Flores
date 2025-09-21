@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ramos de Tulipanes Amarillos</title>
+  <style>
+    body {
+      text-align: center;
+      background-color: #fffbea;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #e6b800;
+      padding: 15px;
+    }
+    p {
+      font-size: 18px;
+      color: #555;
+      margin: 10px;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      margin: 15px auto;
+      border-radius: 10px;
+      display: block;
+    }
+    a {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>💛 Ramos de Tulipanes Amarillos 🌼</h1>
+  <p>Un detalle especial lleno de luz y alegría.</p>
+
+  <img src="https://cdn.pixabay.com/photo/2017/04/04/17/55/tulips-2205014_1280.jpg" alt="Ramo de tulipanes amarillos">
+
+  <img src="https://cdn.pixabay.com/photo/2018/03/22/19/07/tulips-3251590_1280.jpg" alt="Ramo de tulipanes amarillos elegante">
+
+  <p>🌷 ¡Los tulipanes amarillos simbolizan felicidad y amistad sincera!</p>
+
+  <a href="https://wa.me/?text=Te%20mando%20un%20ramo%20de%20tulipanes%20amarillos%20💛🌷">📲 Enviar por WhatsApp</a>
+</body>
+</html>
